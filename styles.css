@@ -10,9 +10,9 @@
     100% {
         background-position: 0% 50%;
     }
-} 
+}
 
-*{
+* {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -63,9 +63,8 @@ body {
     flex-shrink: 0;
 }
 
-.skill-card i
-{
-font-size: 28px;
+.skill-card i {
+    font-size: 28px;
 }
 
 .skill-card:hover {
